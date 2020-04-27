@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CNA\\Tema1\\CNA\\GrpcService1\\Server.csproj": {}
+    "D:\\CNA\\Tema1\\CNA\\Tema1\\GrpcService1\\Server.csproj": {}
   },
   "projects": {
-    "D:\\CNA\\Tema1\\CNA\\GrpcService1\\Server.csproj": {
+    "D:\\CNA\\Tema1\\CNA\\Tema1\\GrpcService1\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CNA\\Tema1\\CNA\\GrpcService1\\Server.csproj",
+        "projectUniqueName": "D:\\CNA\\Tema1\\CNA\\Tema1\\GrpcService1\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "D:\\CNA\\Tema1\\CNA\\GrpcService1\\Server.csproj",
+        "projectPath": "D:\\CNA\\Tema1\\CNA\\Tema1\\GrpcService1\\Server.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "D:\\CNA\\Tema1\\CNA\\GrpcService1\\obj\\",
+        "outputPath": "D:\\CNA\\Tema1\\CNA\\Tema1\\GrpcService1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

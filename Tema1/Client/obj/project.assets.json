@@ -280,11 +280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CNA\\Tema1\\CNA\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\CNA\\Tema1\\CNA\\Tema1\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\CNA\\Tema1\\CNA\\Client\\Client.csproj",
+      "projectPath": "D:\\CNA\\Tema1\\CNA\\Tema1\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\CNA\\Tema1\\CNA\\Client\\obj\\",
+      "outputPath": "D:\\CNA\\Tema1\\CNA\\Tema1\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
